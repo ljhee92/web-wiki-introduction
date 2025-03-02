@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       newComment.innerHTML = `
         <div class="comment-item">
             <div class="comment-author">
-                <img src="../images/comment-author-icon.png" alt="사용자 프로필 이미지" />
+                <img src="./images/comment-author-icon.png" alt="사용자 프로필 이미지" />
                 <span>방문자</span>
             </div>
             <div class="comment-content">
